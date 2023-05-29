@@ -1372,6 +1372,6 @@ public class AirsoftGearRentBot extends TelegramLongPollingBot {
     }
 
     public String getBotToken() {
-        return "5909428759:AAESt5H6JXulSnxCjuTeT-ayMOSXvkuSsFA";
+        return "";
     }
 }
